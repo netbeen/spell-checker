@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/netbeen/spell-checker#readme",
   "dependencies": {
+    "split-camelcase-to-words": "^1.0.1",
     "typo-js": "^1.2.1"
   }
 }
